@@ -1,5 +1,8 @@
 # Say Their Names ✊🏿
 
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/blm.svg)](https://opensourceforcivilrights.com)
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/oscr.svg)](https://opensourceforcivilrights.com)
+
 ## Overview
 
 Welcome to the Say Their Names project. Our aim is to build an open-source platform that raises awareness of the injustice and often forgotten names of racial inequality. We strive to identify and amplify verified organizations to ensure donations are reaching those who can make the most impact with it.
